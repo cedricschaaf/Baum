@@ -96,6 +96,7 @@ public class VektorTest {
         String expResult = "(2.0,2.0,2.0)";
         String result = instance.toString();
         assertEquals(expResult, result);
+        System.out.println("Zündung");
         // TODO review the generated test code and remove the default call to fail.
     }
     
